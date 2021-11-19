@@ -1,10 +1,6 @@
 # Cross-scripting-attack
 
 
-Instruction: https://seedsecuritylabs.org/Labs_16.04/PDF/Web_CSRF_Elgg.pdf
-# Lab Enviroment
-- Attacker ```10.0.2.15```
-- Server  ```10.0.2.4```
 
 Edit the DNS records in ```/etc/hosts``` on both the attacker and the server:
 ```
