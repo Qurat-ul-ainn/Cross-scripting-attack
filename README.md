@@ -1,6 +1,6 @@
 # Cross-scripting-attack
 
-
+Instration :https://seedsecuritylabs.org/Labs_16.04/PDF/Web_XSS_Elgg.pdf
 
 Edit the DNS records in ```/etc/hosts``` on both the attacker and the server:
 ```
